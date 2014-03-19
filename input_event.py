@@ -9,7 +9,7 @@ if platform == 'lin':
 elif platform == 'mac':
 	from Quartz import *
 	from AppKit import NSEvent
-	pressID = 	[None, kCGEventLeftMouseDown,
+	pressID = 	[None, kCGEventLeftMothe,
 				kCGEventRightMouseDown, kCGEventOtherMouseDown]
 	releaseID = [None, kCGEventLeftMouseUp,
 				kCGEventRightMouseUp, kCGEventOtherMouseUp]
