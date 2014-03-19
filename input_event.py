@@ -21,7 +21,7 @@ elif platform == 'win':
         _fields_ = [("x", c_ulong),
                     ("y", c_ulong)]
 
-
+ 
 button_ids = [None, 1, 3, 2, 4, 5, 6, 7]
 
 KEY_BackSpace    = 0xff08
