@@ -5,7 +5,7 @@ python remote desktop programe (like vnc)
 
 Introduction
 ============
-This program implements the server and the client, the client can control and view the server's desktop, just like using a local computer these operations, the client can use the keyboard and mouse to control the server
+This program implemented the server and the client, the client can control and view the server's desktop, just like using a local computer these operations, the client can use the keyboard and mouse to control the server
 
 Main of Libraries and APIs
 ==================
