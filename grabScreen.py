@@ -74,13 +74,3 @@ def calculate(image1, image2, size):
             if isDiff(image1=chunk1, image2=chunk2, gray=True):
                 pixelmap.append([chunk2, x, y, partWidth, partHeight])
     return pixelmap
-
-
-if __name__ == '__main__':
-    import time
-    start = time.time( )
-    calculate(QImage('/home/jack/picture/n1.jpeg'), QImage('/home/jack/picture/n2.jpeg'), size=(1920, 1080))
-    finished = time.time( )-start
-    print(finished)
-    input( )
-    
