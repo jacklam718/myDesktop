@@ -35,6 +35,6 @@ Screenshots
 <img src="https://raw.github.com/jacklam718/myDesktop/master/screenshots/myDesktopViewer.png" alt="myDesktop Client"
 width="500px" height="300px"/>
 
-##### the myDesktop client remote to server
+##### the myDesktop client remote to server to (watch YouTube)
 <img src="https://raw.github.com/jacklam718/myDesktop/master/screenshots/myDesktopViewer2.png" alt="myDesktop Client"
 width="500px" height="300px"/>
