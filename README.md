@@ -28,10 +28,13 @@ Platform
 
 Screenshots
 ===========
-<img  src="https://raw.github.com/jacklam718/myDesktop/master/screenshots/myDesktopViewer2.png" alt="myDesktop Server"  width="500px" height="250px" />
+##### myDesktop Server
+<img  src="https://raw.github.com/jacklam718/myDesktop/master/screenshots/myDesktopServer.png" alt="myDesktop Server"  width="500px" height="300px" />
 
-<img src="https://github.com/jacklam718/myDesktop/blob/master/screenshots/myDesktopViewer.png" alt="myDesktop Client"
-width="500px" height="250px"/>
+##### myDesktop Client
+<img src="https://raw.github.com/jacklam718/myDesktop/master/screenshots/myDesktopViewer.png" alt="myDesktop Client"
+width="500px" height="300px"/>
 
-<img src="https://github.com/jacklam718/myDesktop/blob/master/screenshots/myDesktopViewer2.png" alt="myDesktop Client"
-width="500px" height="250px"/>
+##### myDesktop Client
+<img src="https://raw.github.com/jacklam718/myDesktop/master/screenshots/myDesktopViewer2.png" alt="myDesktop Client"
+width="500px" height="300px"/>
