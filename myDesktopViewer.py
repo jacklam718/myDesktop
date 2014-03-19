@@ -5,7 +5,8 @@ from PyQt4.QtGui import *
 from PyQt4.QtCore import *
 import myDesktopClientProtocol as clientProtocol
 import qt4reactor
-import sys, os, time
+import sys
+import os
 
 log.startLogging(sys.stdout)
 
