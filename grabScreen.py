@@ -52,12 +52,10 @@ def isDiff(image1, image2, gray=False):
     if gray:
         pixels1 = getGrayPixel(image1)
         pixels2 = getGrayPixel(image2)
-        return sum(pixels1) != sum(pixels2)
-
     else:
         pixels1 = getPixel(image1)
         pixels2 = getPixel(image2)
-        return sum(pixels1) != sum(pixels2)
+    return sum(pixels1) != sum(pixels2)
 
 def calculate(image1, image2, size):
     """
