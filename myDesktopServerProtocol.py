@@ -2,10 +2,8 @@
 from twisted.internet.protocol import Protocol, Factory
 from twisted.python import log
 from message_defines import messageTypes as msgTypes
-import sys, thread
-import multiprocessing
+import sys
 log.startLogging(sys.stdout)
-import time
 
 class RDCServerProtocol(Protocol):
 	def __init__(self):
