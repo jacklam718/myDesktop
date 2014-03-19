@@ -1,0 +1,121 @@
+QTabBar::tab{ 
+   	height:26px;
+	width:140px;
+
+	font-size:15px;
+	font-family:Arial;
+	font-weight:normal;
+	font-style:normal;
+
+    text-decoration:none;
+    text-align:center;
+}
+
+QPushButton{
+	border: 1px outset #096EF5;
+    border-radius: 3px;
+    font-family: arial;
+}	
+
+
+ConnectButton{ 
+	border: 3px outset #096EF5;
+    border-radius: 8px;
+    font-family: arial;
+} 
+
+
+ConnectButton:pressed{
+	border-style:inset;
+}
+
+DisconnectButton{
+	border: 3px outset #F8254E;
+    border-radius: 8px;
+    font-family: arial;
+}
+
+DisconnectButton:pressed{
+	border-style:inset;
+}
+
+
+
+QLineEdit{
+	border: 1.4px solid #939393;
+	border-radius: 9px; 
+	padding: 0 1px;
+	font-family: arial;
+}
+
+QLineEdit:focus{
+	border: 1.4px solid #0983DB;
+}
+
+
+QTextBrowser{
+	border: 1.4px solid #939393;
+	font-family: arial;
+}
+
+QTextBrowser:focus{
+	border: 1.4px solid #0983DB;
+}
+
+
+QTreeView{
+	border: 1.4px solid #939393;
+	font-family: arial;
+}
+
+QTreeView:focus{
+	border: 1.4px solid #0983DB;
+
+}
+
+
+QListWidget{
+	border: 1.4px solid #939393;
+	font-family: arial;
+}
+
+QListWidget:focus{
+	border: 1.4px solid #0983DB;
+}
+
+
+QWidget:focus{
+	border: 1.4px solid #0983DB;
+}
+
+
+QLabel{
+	font-family: arial;
+}
+
+
+box#portEdit{
+	border: 1.4px solid #939393;
+	border-radius: 9px; 
+	padding: 0 1px;
+	font-family: arial;
+}
+
+
+
+/*QPushButton {
+    border: 1.5px outset #3697F7;
+    border-radius: 18px;
+}
+
+QPushButton:pressed {
+    border-style: inset;
+}
+
+/*ConnectButton{ 
+	background-color: #74C77F;
+} 
+
+DisconnectButton { 
+	background-color: #DE4949;
+}
