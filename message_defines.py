@@ -12,4 +12,4 @@ messageTypes.POINTER_EVENT      = 4
 messageTypes.COPY_TEXT          = 5
 messageTypes.CUT_TEXT           = 6
 messageTypes.TEXT_MESSAGE       = 7
-messageTypes.AUTH_RESULT        = 8
+messageTypes.AUTH_RESULT        = 8 
