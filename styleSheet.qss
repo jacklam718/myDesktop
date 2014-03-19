@@ -1,39 +1,35 @@
 QPushButton{
-	border: 1px outset #096EF5;
+    border: 1px outset #096EF5;
     border-radius: 3px;
     font-family: arial;
-}	
+}   
 
 
 QLineEdit{
-	border: 1.4px solid #939393;
-	border-radius: 9px; 
-	padding: 0 1px;
-	font-family: arial;
+    border: 1.4px solid #939393;
+    border-radius: 9px; 
+    padding: 0 1px;
+    font-family: arial;
 }
 
 QLineEdit:focus{
-	border: 1.4px solid #0983DB;
+    border: 1.4px solid #0983DB;
 }
 
 
 QLabel{
-	font-family: arial;
+    font-family: arial;
 }
 
 
 box#portEdit{
-	border: 1.4px solid #939393;
-	border-radius: 9px; 
-	padding: 0 1px;
-	font-family: arial;
+    border: 1.4px solid #939393;
+    border-radius: 9px; 
+    padding: 0 1px;
+    font-family: arial;
 }
 
 
 QPushButton:pressed {
     border-style: inset;
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> bd4d1d8056e226a6a449e381e1ad8cd8cc6d41e6
