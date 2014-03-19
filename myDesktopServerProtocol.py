@@ -102,7 +102,7 @@ class RDCServerProtocol(Protocol):
         get server cut text to client
         """
         self.transport(self._pack(msgTypes.CUT_TEXT, text=text))
-
+        
         
 class RDCFactory(Factory):
     protocol = RDCServerProtocol

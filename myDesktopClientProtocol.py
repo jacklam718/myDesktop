@@ -2,7 +2,6 @@
 """
 This is RDC(Remote Desktop Control) protocol
 """
-
 from twisted.internet.protocol import Protocol, Factory, ClientFactory 
 from twisted.python import log
 from message_defines import messageTypes as msgTypes
