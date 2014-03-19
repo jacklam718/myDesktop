@@ -25,3 +25,13 @@ Platform
 * Linux
 * Mac OS X
 * Windows
+
+Screenshots
+===========
+<img  src="https://github.com/jacklam718/myDesktop/edit/master/screenshots/myDesktopServer.png" alt="myDesktop Server"  width="500px" height="250px" />
+
+<img src="https://github.com/jacklam718/myDesktop/edit/master/screenshots/myDesktopViewer.png" alt="myDesktop Client"
+width="500px" height="250px"/>
+
+<img src="https://github.com/jacklam718/myDesktop/edit/master/screenshots/myDesktopViewer2.png" alt="myDesktop Client"
+width="500px" height="250px"/>
