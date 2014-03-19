@@ -32,4 +32,8 @@ box#portEdit{
 
 QPushButton:pressed {
     border-style: inset;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> bd4d1d8056e226a6a449e381e1ad8cd8cc6d41e6
