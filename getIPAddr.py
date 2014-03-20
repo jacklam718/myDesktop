@@ -6,8 +6,4 @@ def getIP( ):
 	s.connect(('www.google.com', 80))
 	addr = s.getsockname( )[0]  
 	s.close( )  
-	return addr 
-
-
-address = ( getIP( ), 5000 )   
-
+	return addr
